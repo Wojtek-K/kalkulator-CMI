@@ -4,3 +4,8 @@
 # znak +,-,* lub /
 # liczbę (drugi operand)
 # i zwracający wynik odpowiedniego działania kalkulatorowego
+#adfgadfgsdfgs
+
+
+
+
