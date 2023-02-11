@@ -10,6 +10,11 @@
 # Podaj symbol działania: znak
 # Wynik w zmiennej: wynik
 
+x=input("Podaj 1 liczbę: ")
+x=int(x)
+y=input("Podaj 2 liczbę: ")
+y=int(y)
+znak=input("Popdaj znak z klawiatury")
 if znak == "+":
     wynik = x + y
 elif znak == "-":
