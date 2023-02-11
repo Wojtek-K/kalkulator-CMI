@@ -2,5 +2,6 @@
 # W zadaniu należy napisać kalkulator wczytujący od użytkownika kolejno
 # liczbę (pierwszy operand)
 # znak +,-,* lub /
+#testtt
 # liczbę (drugi operand)
 # i zwracający wynik odpowiedniego działania kalkulatorowego
