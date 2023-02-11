@@ -26,7 +26,7 @@ while (wybor =="t"):
         wynik = x * y
     elif znak=="/":
         wynik = x / y
-     elif znak== "^":
+    elif znak== "^":
         wynik=x**y   
 
     print("Wynikiem tego działania jest: ", wynik)
