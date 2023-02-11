@@ -15,6 +15,9 @@ while (wybor =="t"):
     y=input("Podaj 2 liczbę: ")
     y=int(y)
     znak=input("Podaj znak z klawiatury\n")
+    if y==0 and znak=="/":
+        print("bzdura") 
+        break
     if znak == "+":
         wynik = x + y
     elif znak == "-":
@@ -23,6 +26,5 @@ while (wybor =="t"):
         wynik = x * y
     elif znak=="/":
         wynik = x / y
-
     print("Wynikiem tego działania jest: ", wynik)
     wybor = input("Czy chcesz coś obliczyć? t/n: ")
