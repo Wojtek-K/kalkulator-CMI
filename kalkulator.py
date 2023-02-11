@@ -7,17 +7,22 @@
 # Podaj nazwę 1 zmiennej: x
 # Podaj nazwę 2 zmiennej: y
 # Podaj symbol działania: znak
-x=input("Podaj 1 liczbę: ")
-x=int(x)
-y=input("Podaj 2 liczbę: ")
-y=int(y)
-znak=input("Podaj znak z klawiatury\n")
-if znak == "+":
-    wynik = x + y
-elif znak == "-":
-    wynik = x - y
-elif znak=="*":
-    wynik = x * y
-elif znak=="/":
-    wynik = x / y
-print("Wynikiem tego działania jest: ", wynik)
+
+wybor = "t"
+while (wybor ==12 "t"):
+    x=input("Podaj 1 liczbę: ")
+    x=int(x)
+    y=input("Podaj 2 liczbę: ")
+    y=int(y)
+    znak=input("Podaj znak z klawiatury\n")
+    if znak == "+":
+        wynik = x + y
+    elif znak == "-":
+        wynik = x - y
+    elif znak=="*":
+        wynik = x * y
+    elif znak=="/":
+        wynik = x / y
+
+    print("Wynikiem tego działania jest: ", wynik)
+    wybor = input("Czy chcesz coś obliczyć? t/n: ")
