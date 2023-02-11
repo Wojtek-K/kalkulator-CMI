@@ -9,6 +9,7 @@
 # Podaj nazwę 2 zmiennej: y
 # Podaj symbol działania: znak
 # Wynik w zmiennej: wynik
+
 x=input("Podaj 1 liczbę: ")
 x=int(x)
 y=input("Podaj 2 liczbę: ")
