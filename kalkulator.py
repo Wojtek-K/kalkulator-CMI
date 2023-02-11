@@ -8,4 +8,16 @@
 #testtttt
 
 
+if operacja == "+":
+    wynik = x + y
+elif operacja == "-":
+    wynik = x - y
+elif operacja == "*":
+    wynik = x * y
+elif operacja == "/":
+    wynik = x / y
+else:
+    print("Niepoprawna operacja")
+    
+
 
