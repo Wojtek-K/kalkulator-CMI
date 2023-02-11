@@ -9,7 +9,7 @@
 # Podaj symbol działania: znak
 
 wybor = "t"
-while (wybor ==12 "t"):
+while (wybor =="t"):
     x=input("Podaj 1 liczbę: ")
     x=int(x)
     y=input("Podaj 2 liczbę: ")
