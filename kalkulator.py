@@ -16,7 +16,7 @@ while (wybor =="t"):
     y=int(y)
     znak=input("Podaj znak z klawiatury\n")
     if y==0 and znak=="/":
-        print("bzdura") 
+        print("Mówię holero nie dziel przez zero!!!!!!!!") 
         break
     if znak == "+":
         wynik = x + y
