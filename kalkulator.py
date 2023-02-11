@@ -9,7 +9,7 @@
 # Podaj symbol działania: znak
 
 wybor = "t"
-while (wybor ==12 "t"):
+while (wybor =="t"):
     x=input("Podaj 1 liczbę: ")
     x=int(x)
     y=input("Podaj 2 liczbę: ")
@@ -23,6 +23,8 @@ while (wybor ==12 "t"):
         wynik = x * y
     elif znak=="/":
         wynik = x / y
+    elif znak ="^":
+        wynik x**y   
 
     print("Wynikiem tego działania jest: ", wynik)
     wybor = input("Czy chcesz coś obliczyć? t/n: ")
