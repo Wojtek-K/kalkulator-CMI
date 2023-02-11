@@ -4,16 +4,14 @@
 # znak +,-,* lub /
 # liczbę (drugi operand)
 # i zwracający wynik odpowiedniego działania kalkulatorowego
-
 # Podaj nazwę 1 zmiennej: x
 # Podaj nazwę 2 zmiennej: y
 # Podaj symbol działania: znak
-
 x=input("Podaj 1 liczbę: ")
 x=int(x)
 y=input("Podaj 2 liczbę: ")
 y=int(y)
-znak=input("Popdaj znak z klawiatury ")
+znak=input("Podaj znak z klawiatury\n")
 if znak == "+":
     wynik = x + y
 elif znak == "-":
