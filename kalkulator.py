@@ -4,6 +4,11 @@
 # znak +,-,* lub /
 # liczbę (drugi operand)
 # i zwracający wynik odpowiedniego działania kalkulatorowego
+# Ania
+
+
+#teeest
+# przermyslaw
 #adfgadfgsdfgs
 #testtttt
 
@@ -18,3 +23,5 @@ elif operacja == "/":
 else:
     print("Niepoprawna operacja")
 
+#Ewa
+#Ewa1
