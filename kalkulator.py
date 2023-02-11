@@ -12,7 +12,16 @@
 #adfgadfgsdfgs
 #testtttt
 
-#ggggg
+if operacja == "+":
+    wynik = x + y
+elif operacja == "-":
+    wynik = x - y
+elif operacja == "*":
+    wynik = x * y
+elif operacja == "/":
+    wynik = x / y
+else:
+    print("Niepoprawna operacja")
 
 #Ewa
 #Ewa1
