@@ -13,7 +13,7 @@ x=input("Podaj 1 liczbę: ")
 x=int(x)
 y=input("Podaj 2 liczbę: ")
 y=int(y)
-znak=input("Popdaj znak z klawiatury")
+znak=input("Popdaj znak z klawiatury ")
 if znak == "+":
     wynik = x + y
 elif znak == "-":
@@ -21,5 +21,5 @@ elif znak == "-":
 elif znak=="*":
     wynik = x * y
 elif znak=="/":
-    wynik = x * y
+    wynik = x / y
 print("Wynikiem tego działania jest: ", wynik)
