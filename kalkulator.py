@@ -7,7 +7,6 @@
 #adfgadfgsdfgs
 #testtttt
 
-
 if operacja == "+":
     wynik = x + y
 elif operacja == "-":
@@ -18,6 +17,4 @@ elif operacja == "/":
     wynik = x / y
 else:
     print("Niepoprawna operacja")
-    
-
 
