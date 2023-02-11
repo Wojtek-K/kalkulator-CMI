@@ -19,3 +19,4 @@ if znak == "+":
 elif znak == "-":
     wynik = x - y
 
+print("Wynikiem tego działania jest: ", wynik)
