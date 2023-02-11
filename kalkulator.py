@@ -4,11 +4,9 @@
 # znak +,-,* lub /
 # liczbę (drugi operand)
 # i zwracający wynik odpowiedniego działania kalkulatorowego
-
 # Podaj nazwę 1 zmiennej: x
 # Podaj nazwę 2 zmiennej: y
 # Podaj symbol działania: znak
-
 x=input("Podaj 1 liczbę: ")
 x=int(x)
 y=input("Podaj 2 liczbę: ")
